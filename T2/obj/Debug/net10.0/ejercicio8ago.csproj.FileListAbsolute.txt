@@ -1,0 +1,14 @@
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\bin\Debug\net10.0\ejercicio8ago.exe
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\bin\Debug\net10.0\ejercicio8ago.deps.json
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\bin\Debug\net10.0\ejercicio8ago.runtimeconfig.json
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\bin\Debug\net10.0\ejercicio8ago.dll
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\bin\Debug\net10.0\ejercicio8ago.pdb
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\obj\Debug\net10.0\ejercicio8ago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\obj\Debug\net10.0\ejercicio8ago.AssemblyInfoInputs.cache
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\obj\Debug\net10.0\ejercicio8ago.AssemblyInfo.cs
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\obj\Debug\net10.0\ejercicio8ago.csproj.CoreCompileInputs.cache
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\obj\Debug\net10.0\ejercicio8ago.dll
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\obj\Debug\net10.0\refint\ejercicio8ago.dll
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\obj\Debug\net10.0\ejercicio8ago.pdb
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\obj\Debug\net10.0\ejercicio8ago.genruntimeconfig.cache
+C:\Users\TRON\Documents\UPANA\Segundo semestre\Programación Orientada a Objetos\ejercicio8ago\obj\Debug\net10.0\ref\ejercicio8ago.dll
