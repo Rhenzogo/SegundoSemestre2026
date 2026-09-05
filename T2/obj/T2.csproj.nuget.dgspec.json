@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\ejercicio8ago\\T2.csproj": {}
+    "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\RepositorioSemestre2\\SegundoSemestre2026\\T2\\T2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\ejercicio8ago\\T2.csproj": {
+    "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\RepositorioSemestre2\\SegundoSemestre2026\\T2\\T2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\ejercicio8ago\\T2.csproj",
+        "projectUniqueName": "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\RepositorioSemestre2\\SegundoSemestre2026\\T2\\T2.csproj",
         "projectName": "T2",
-        "projectPath": "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\ejercicio8ago\\T2.csproj",
+        "projectPath": "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\RepositorioSemestre2\\SegundoSemestre2026\\T2\\T2.csproj",
         "packagesPath": "C:\\Users\\TRON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\ejercicio8ago\\obj\\",
+        "outputPath": "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\RepositorioSemestre2\\SegundoSemestre2026\\T2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TRON\\AppData\\Roaming\\NuGet\\NuGet.Config"

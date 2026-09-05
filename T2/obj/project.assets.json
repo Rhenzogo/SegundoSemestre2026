@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\ejercicio8ago\\T2.csproj",
+      "projectUniqueName": "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\RepositorioSemestre2\\SegundoSemestre2026\\T2\\T2.csproj",
       "projectName": "T2",
-      "projectPath": "c:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\ejercicio8ago\\T2.csproj",
+      "projectPath": "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\RepositorioSemestre2\\SegundoSemestre2026\\T2\\T2.csproj",
       "packagesPath": "C:\\Users\\TRON\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\ejercicio8ago\\obj\\",
+      "outputPath": "C:\\Users\\TRON\\Documents\\UPANA\\Segundo semestre\\Programación Orientada a Objetos\\RepositorioSemestre2\\SegundoSemestre2026\\T2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TRON\\AppData\\Roaming\\NuGet\\NuGet.Config"
